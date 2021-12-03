@@ -6,7 +6,7 @@ import requests
 import numpy as np
 import pickle
 
-DISCORD_TOKEN = 'NzgzMTAzNjkxMDM2NTU3MzYy.X8V4JQ.1osh41vcWR9gviPcRPXi2Jszubk'
+DISCORD_TOKEN = '<token>' # find here: https://discord.com/developers/applications/783103691036557362/bot
 TENOR_TOKEN = '6RBF86B3QSNB'
 GIFS = np.array(['floppa', 'sogga', 'venti', 'thoma', 'diluc', 'amongus', 'femboy', 'malewife', 'doge', 'frog',
                  'peepo', 'pepe', 'horny jail', 'crazy frog'])
